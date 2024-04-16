@@ -4,11 +4,15 @@ from llama_index.llms.openai import OpenAI
 try:
   from llama_index import VectorStoreIndex, ServiceContext, Document, SimpleDirectoryReader
 except ImportError:
-  from llama_index.core import VectorStoreIndex, ServiceContext, Document, SimpleDirectoryReader
+  from llama_index.core import VectorStoreIndex, ServiceContext, Document, SimpleDirectoryReader, Settings
 
 st.set_page_config(page_title="Chatea con el CV de Sebastián Urbina", page_icon="🤓", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets.openai_key
-st.title("Sebastián Urbina 🤓")
+
+Settings.chunk_size = 4096
+Settings.chunk_overlap = 20
+
+st.title("Custom GPT 🤓")
 st.info("Puedes saber más de mi en [Github](https://github.com/SebasUrbina) y [LinkedIn](https://www.linkedin.com/in/sebaurbina/)", icon="📃")
          
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
@@ -22,7 +26,7 @@ def load_data():
     with st.spinner(text="Cargando información de Sebastián Urbina..."):
         reader = SimpleDirectoryReader(input_dir="./docs", recursive=True)
         docs = reader.load_data()
-        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.1))
+        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.0))
         index = VectorStoreIndex.from_documents(docs, service_context=service_context)
         return index
 

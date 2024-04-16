@@ -1,0 +1,82 @@
+Nombre: Sebastián Ignacio Urbina Gajardo
+Correo: sebastian.urbina@ug.uchile.cl
+Teléfono: +56966719190
+LinkedIn: www.linkedin.com/in/SebaUrbina
+GitHub: www.github.com/SebasUrbina
+
+Biografía:
+Mi nombre es Sebastián Urbina, soy egresado de Ingeniería Civil Industrial y Magíster
+en Ciencia de Datos (a la espera de defender mi tesis).
+
+Actualmente trabajo como Data Scientist Especialista en Entel. Estoy desempeñando 
+un rol transversal en la organización, apoyando y creando iniativas de Inteligencia Artificial Generativa.
+
+Mis intereses van por el área de la ciencia de datos y la inteligencia artificial.
+
+Me interesa postular al trabajo en Buda debido a que quiero desarrollar mi carrera en el área
+de inteligencia artificial generativa y sus aplicaciones, por lo que encaja con mi área
+de desarrollo y además se acopla con mi interés por el mundo de las criptomonedas. Sería
+fantastico poder ayudar desde una perspectiva analítica a mejorar proceso y hacer cosas más
+eficientes apalancando las ideas a través de la IA.
+
+En el trabajo en Buda espero crecer profesionalmente, aplicar herramientas de IA Generativa e impactar 
+positivamente en la manera que se hacen las cosas
+
+A continuación está mi curriculum:
+
+Resumen: 
+Egresado de Ingeniería Civil Industrial y Magíster en Ciencia de Datos. 
+Motivado por las nuevas tecnologías y por un desarrollo integral. 
+Proactivo, responsable, analítico, resiliente, humano, con ganas de aprender. 
+Intereses en el área de Ciencia de Datos y Finanzas.
+
+Experiencia de Trabajo:
+- Data Scientist Especialista en VP Negocios Digitales B2B, Entel, Santiago (2023)
+    > Lideré un proyecto enfocado en mejorar la eficiencia energética a través de identificar
+    antenas consumos de energía anómalos para priorizar su visita en terreno. 
+    Actualmente apoyo y creo iniciativas de IA Generativa.
+- Práctica III en VP Personas, Entel, Santiago (2022)
+    > Practicante en el área de Big Data & Analytics de la Vicepresidencia de Personas. 
+    Desarrollé un novedoso indicador para monitear la calidad de red en función de la satisfacción de clientes.
+- Práctica II en Corporativo, Antofagasta Minerals, Santiago (2022)
+    > Lideré en conjunto con el equipo de salud corporativo la implementación y capacitaciones de un módulo
+    de salud de SAP en las compañias del grupo minero.
+- Práctica I en Seguros Generales, Comisión para el Mercado Financiero, Santiago (2021)
+    > Validé las clasificaciones de riesgo de las reaseguradoras internacionales a través de 
+    la automatización del proceso utilizando python.
+Educación:
+- Magíster en Ciencia de Datos, Universidad de Chile
+- Ingeniería Civil Industrial, Universidad de Chile
+- Intercambio: Ingeniería Organizacional, Universidad Politécnica de Madrid, España
+
+Experiencia Académica:
+- Profesor Auxiliar de curso  Análisis de Datos e Inferencia Causal, Universidad de Chile (2022)
+- Ayudante, Introducción al Deep Learning, Finanzas II, Cátedra del Pensar, Universidad de Chile
+
+Programación:
+- Python Avanzado
+- R Intermedio
+- SQLIntermedio
+
+Certificados y Cursos:
+- Convolutional Neural Networks, Coursera (2022)
+- Seeds for the future program, Huawei (2022)
+- Exercising Leadership: Foundational Principles, HarvardX (2022)
+- AI and Data Science for Leaders, The University of Chicago (2022)
+- Introduction to R (2021)
+- Curso profesional de Python (2021)
+- Improving Deep Neural Networks (2021)
+- Neural Networks and Deep Learning (2020)
+- Certificate of Completition: Elements of IA (2020)
+- Curso de Astronomía: Acercándonos a las Estrellas (2018)
+
+Actividades extracurriculaes:
+- Seeds for the future - Huawei
+    > Fuí uno de los 50 elegidos por Huawei para participar en el programa de 
+    Seeds for the Future en la creación de soluciones tecnológicas.
+- LAC ICT Talent Summit:
+    > Participé en el evento presencial en Méximo que organizó Hauwei que reunia múltiples talentos
+    digitales de latinoaméríca. Fui uno de los 15 representantes de CHile.
+
+Lenguaje/Idioma:
+- Inglés: Intermedio

@@ -13,12 +13,16 @@ Settings.chunk_size = 4096
 Settings.chunk_overlap = 20
 
 st.title("Custom GPT 🤓")
+st.write("""
+         ¡Hola! Muchas gracias por tu interés en conocerme. El siguiente BOT responde en función de mi base 
+         de conocimiento que se generó en base a mi CV, en el contexto de la búsqueda de una oportunidad laboral en [BUDA](https://buda.com/).
+        """)
 st.info("Puedes saber más de mi en [Github](https://github.com/SebasUrbina) y [LinkedIn](https://www.linkedin.com/in/sebaurbina/)", icon="📃")
-         
+st.warning("Las respuestas pueden no ser del todo precisas.", icon="⚠️")
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [
         {"role": "assistant", 
-         "content": "Hola, soy el Digital Twin de Sebastián Urbina"}
+         "content": "Hola, un gusto, soy Sebastián Urbina"}
     ]
 
 @st.cache_resource(show_spinner=False)

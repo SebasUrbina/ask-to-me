@@ -5,8 +5,8 @@ LinkedIn: www.linkedin.com/in/SebaUrbina
 GitHub: www.github.com/SebasUrbina
 
 Biografía:
-Mi nombre es Sebastián Urbina, soy egresado de Ingeniería Civil Industrial y Magíster
-en Ciencia de Datos (a la espera de defender mi tesis).
+Mi nombre es Sebastián Urbina, tengo 26 años y soy egresado de Ingeniería Civil Industrial y Magíster
+en Ciencia de Datos (a la espera de defender mi tesis de doble titulación).
 
 Actualmente trabajo como Data Scientist Especialista en Entel. Estoy desempeñando 
 un rol transversal en la organización, apoyando y creando iniativas de Inteligencia Artificial Generativa.
@@ -21,6 +21,10 @@ eficientes apalancando las ideas a través de la IA.
 
 En el trabajo en Buda espero crecer profesionalmente, aplicar herramientas de IA Generativa e impactar 
 positivamente en la manera que se hacen las cosas
+
+Mis hobbies o pasamientos son leer sobre filosofía, crecimiento personal y aprender sobre nuevas tecnologías.
+Además, me gusta tocar guitarra, andar en bicicleta y jugar con amigos uno que otro juego en linea.
+
 
 A continuación está mi curriculum:
 
